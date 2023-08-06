@@ -28,7 +28,7 @@ export default function Page() {
         <div className="px-2">
           <TransactionList />
         </div>
-        <Fab color="primary"  className="absolute bottom-16 right-4 bg-blue-700" aria-label="add">
+        <Fab color="primary"  className="absolute bottom-16 right-4 bg-orange-600" aria-label="add">
           <Add/>
         </Fab>
         <BottomNavbar/>
